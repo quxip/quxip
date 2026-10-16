@@ -1,3 +1,21 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/81/1d/25/811d255ce4eed0428b0b52b8ccb46c6f.gif" width="450" />
+
+  <img src="https://i.pinimg.com/originals/46/e8/8a/46e88afaf059ed6da8c1986bc601bf77.gif" width="450" />
+
+  ---
+
+  <h3>stack / tools</h3>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,linux,cs" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Learning-Rust-181818?style=for-the-badge&logo=rust&logoColor=white" alt="Learning Rust" />
+
+  <br/><br/>
+
+  <code>former coder #vibecoding</code>
+
 </div>
