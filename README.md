@@ -7,7 +7,7 @@
   <h3>stack / tools</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,linux,cs" />
+    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,linux,cs,git" />
   </a>
 
   <br/><br/>
