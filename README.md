@@ -6,9 +6,14 @@
 
   <h3>stack / tools</h3>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,linux,cs,git" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-181818?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-181818?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Linux-181818?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/C%23-181818?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
   <br/><br/>
 
